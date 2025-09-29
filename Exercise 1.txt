@@ -1,1 +1,0 @@
-Exercise 1- Data sanity checks	Train baseline model on Titanic. Shuffle labels, drop features, scale incorrectly → observe impact.
