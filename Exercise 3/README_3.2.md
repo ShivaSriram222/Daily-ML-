@@ -22,7 +22,7 @@
 * **Confusion matrix**: basis for Accuracy, Precision, Recall, F1.
 * **Accuracy**: share of correct predictions (can mislead on imbalanced data).
 * **Precision**: among predicted positives, how many are truly positive (important when false positives are costly).
-* **Recall (Sensitivity)**: among actual positives, how many are found (important when false negatives are costly).
+* **Recall (Sensitivity)**: among actual positives, how many are found/ predicted positives (important when false negatives are costly).
 * **F1-Score**: harmonic mean of precision and recall (useful with imbalance).
 * **ROC curve & AUC**: threshold-sweep performance; AUC near 1.0 is strong, 0.5 is random.
 * **Log Loss (cross-entropy)**: evaluates probabilistic predictions; lower is better.
